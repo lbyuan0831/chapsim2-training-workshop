@@ -62,7 +62,8 @@
 - Porting and running CHAPSim on GPU  
 - CPU vs GPU performance considerations  
 - Parallel scaling (MPI / decomposition)  
-- Practical tips for efficient runs  
+- Practical tips for efficient runs
+  
 ---
 
 ### 14:30 – 14:50 | Coffee Break
