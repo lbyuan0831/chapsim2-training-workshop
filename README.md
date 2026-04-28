@@ -18,6 +18,7 @@
 - Objectives of the workshop 
 - Overview of the workshop structure 
 - Participant introductions (background & expectations)
+
 ---
 
 ### 10:15 – 11:00 | DNS Fundamentals *(Dr. Wei Wang)*
@@ -26,6 +27,7 @@
 - Time stepping and CFL considerations  
 - Key diagnostics (mean profiles, statistics)  
 - Common pitfalls in DNS  
+
 ---
 
 ### 11:00 – 12:15 | CHAPSim2 Basics *(Dr. Wei Wang)*
@@ -133,8 +135,9 @@ Please bring:
 - MPI and compiler setup, if available
 - CHAPSim2 installed, if possible
 - Optional: your own test cases or research problems for discussion
-- 
+  
 ---
+
 ## 🎯 Learning Outcomes
 
 By the end of the workshop, you should be able to:
