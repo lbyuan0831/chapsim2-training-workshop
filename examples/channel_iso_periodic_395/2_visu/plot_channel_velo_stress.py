@@ -214,8 +214,8 @@ def parse_args() -> argparse.Namespace:
         "--groups",
         nargs="+",
         choices=("all", "velocity", "pressure", "stress", "vorticity"),
-        default=("all",),
-        help="Plot groups to generate. Default: all.",
+        default=("velocity", "pressure", "stress"),
+        help="Plot groups to generate. Default: velocity pressure stress.",
     )
     parser.add_argument(
         "--input-dir",
